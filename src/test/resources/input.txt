@@ -1,0 +1,3 @@
+TEXT: some text"and new text"
+{"id": 1, "totalInn":"98765405", "items": [{"id": 1,"name": "name1","inn": "12345"},{"id": 1,"name": "name1","inn": "12346"},{"id": 1,"name": "name1","inn": "12345"},{"id": 1,"name": "name1","inn": "12345"}], "intInn": 9987}
+DONE
